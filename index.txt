@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+HEAD
 "Edit from Main" 
-=======
 "Edit from Feature" 
->>>>>>> feature-cool
+feature-cool
